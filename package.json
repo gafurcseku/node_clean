@@ -1,0 +1,28 @@
+{
+  "name": "clean_bd",
+  "version": "1.0.0",
+  "description": "This is Node Js REST API for Cleaning service and MongoDb Database use for store data",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solution24hourexplorer/node_clean.git"
+  },
+  "keywords": [
+    "clean",
+    "node",
+    "gafur",
+    "bangladesh"
+  ],
+  "author": "Md abdul gafur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solution24hourexplorer/node_clean/issues"
+  },
+  "homepage": "https://github.com/solution24hourexplorer/node_clean#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
